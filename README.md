@@ -6,4 +6,11 @@ Considering the closest neighbouring atoms we get 3 positions R1, R2 and R3 and 
 3. Points gamma, K and M are given coordinates of reciprocal lattice.
 4. We take care of the units.
 
-Output:
+Results:
+
+![Band structure](https://github.com/tildekara/Band_structure_of_graphene/blob/master/band%20structure%20of%20graphene.png?raw=true)
+
+K, M and Gamma points explained:
+
+![Band structure](https://inspirehep.net/record/1297532/files/gr_lattice_BZ.png)
+Image by: https://inspirehep.net/record/1297532/plots
