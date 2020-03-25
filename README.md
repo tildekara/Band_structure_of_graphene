@@ -1,4 +1,4 @@
-This program uses Tight Binding method - LCAO method taking in consiteration periodicity of the system. Bloch wave functions describe the electronic states in a periodic crystal lattice. Base function consists of two parts - Up localised on atoms and Bloch element.
+This program uses Tight Binding method - LCAO method taking into consiteration periodicity of the system. Bloch wave functions describe the electronic states in a periodic crystal lattice. Base function consists of two parts - Up localised on atoms and Bloch element.
 We create generalised eigenvalue problem and series of function of tightly bonded electrons. 
 Considering the closest neighbouring atoms we get 3 positions R1, R2 and R3 and after that:
 1. We create a path from K point of symmetry to M point
